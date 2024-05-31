@@ -7,3 +7,5 @@ TBD
 ## Mayer Clustering Expansion (MCE)
 
 https://en.wikipedia.org/wiki/Cluster_expansion
+
+## Fast Wavelet Transform Learning-curve
