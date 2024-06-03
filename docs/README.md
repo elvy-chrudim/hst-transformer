@@ -50,3 +50,9 @@ Last, but not least, fast continuous WT (not sure if useful, but advanced)
 
 `https://github.com/fastlib/fCWT`
 
+### Example:
+
+Wavelets vs. Fourier transform is the best stressed in image processing
+
+`https://medium.com/@koushikc2000/2d-discrete-wavelet-transformation-and-its-applications-in-digital-image-processing-using-matlab-1f5c68672de3`
+
