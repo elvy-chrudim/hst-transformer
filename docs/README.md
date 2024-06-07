@@ -26,6 +26,10 @@ Wavelet Transforms in Python with Google JAX (overview of FWT and tools)
 
 ### Tools:
 
+Python library used in M. Glinsky's paper on MagLif
+
+`https://www.kymat.io/index.html`
+
 PyTorch
 
 `https://github.com/v0lta/PyTorch-Wavelet-Toolbox`
@@ -55,4 +59,6 @@ Last, but not least, fast continuous WT (not sure if useful, but advanced)
 Wavelets vs. Fourier transform is the best stressed in image processing
 
 `https://medium.com/@koushikc2000/2d-discrete-wavelet-transformation-and-its-applications-in-digital-image-processing-using-matlab-1f5c68672de3`
+
+
 
