@@ -2,7 +2,9 @@
 
 ## Heisenberg Scattering Transformation (HST)
 
-TBD
+Very nice introduction into HST and comparison to CNNs
+
+`https://cmc.deusto.eus/constructing-the-scattering-transform/`
 
 ## Mayer Clustering Expansion (MCE)
 
